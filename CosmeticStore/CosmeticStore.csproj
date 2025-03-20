@@ -174,5 +174,8 @@
     <Folder Include="Repositories\" />
     <Folder Include="Services\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
