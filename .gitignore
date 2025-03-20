@@ -1,0 +1,13 @@
+﻿# Bỏ qua thư mục NuGet packages
+packages/
+
+# Bỏ qua file build của Visual Studio
+bin/
+obj/
+.vs/
+
+# Bỏ qua file cấu hình người dùng Visual Studio
+*.user
+*.suo
+*.vsp
+*.pdb
